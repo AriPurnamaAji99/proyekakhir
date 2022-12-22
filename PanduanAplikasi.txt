@@ -1,0 +1,8 @@
+file database ada di folder ( db ) atau pada file awal di bawah htaccess dengan nama file bumdes.sql
+
+USER LOGIN
+
+-Petugas Gudang
+
+Email : aripurnamaaji45@gmail.com
+Password : 12345678
